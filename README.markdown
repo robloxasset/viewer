@@ -5,7 +5,7 @@ Avatar Model Viewer [![Build Status](https://img.shields.io/travis/rust-lang/rus
 
 A tool for viewing 3D Roblox models & avatars. Also includes download feature.
 
-See https://robloxasset.github.io/avatar-model-viewer for all the documentation.
+See https://robloxasset.github.io/avatar-model-viewer for instructions.
 
 License
 -------
