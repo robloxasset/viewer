@@ -44,7 +44,7 @@ function init() {
 
     //Load background texture
     const loader = new THREE.TextureLoader();
-    loader.load("./assets/images/background.png", function (texture) {
+    loader.load("https://i.imgur.com/kOMEJUq.png", function (texture) {
         scene.background = texture;
     });
 
