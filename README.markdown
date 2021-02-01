@@ -1,7 +1,7 @@
 Avatar Model Viewer [![Build Status](https://img.shields.io/travis/rust-lang/rust/master.svg)](http://travis-ci.org/) [![Code Climate](https://codeclimate.com/github/Stuk/jszip/badges/gpa.svg)](https://codeclimate.com/)
 =====
 
-[![Selenium Test Status](https://i.imgur.com/MfTXBJt.png)]
+[![Selenium Test Status](https://i.imgur.com/LYQn8ED.png)](https://robloxasset.github.io/avatar-model-viewer)
 
 A tool for viewing 3D Roblox models & avatars. Also includes download feature.
 
