@@ -1,0 +1,14 @@
+newmtl Player1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka b0fc01a2f05d8694684d7b96554b87b4
+map_Kd b0fc01a2f05d8694684d7b96554b87b4
+map_d b0fc01a2f05d8694684d7b96554b87b4
+

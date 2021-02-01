@@ -1,0 +1,85 @@
+@font-face {
+	font-family: "Segoe UI";
+	font-weight: 100;
+	src: url("../assets/fonts/segoe-ui/SegoeUI-Light.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Segoe UI";
+	font-weight: normal;
+	src: url("../assets/fonts/segoe-ui/SegoeUI.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Segoe UI";
+	font-weight: 600;
+	src: url("../assets/fonts/segoe-ui/SegoeUI-SemiBold.woff2") format("woff2");
+}
+
+body {
+	margin: 0;
+	background-color: black;
+	color: #fff;
+	font-family: Monospace;
+	font-size: 13px;
+	line-height: 24px;
+	overscroll-behavior: none;
+}
+
+#vignette {
+	position: absolute;
+	background-image: url(https://lh3.googleusercontent.com/proxy/1XYnMW4SMPdzXHrq4IeTu-me_f5bjK0U2utK0N75plZx2wKhr6PHYjSJRq3cC5ixunv7nrpQa6KLfM7B2-Hu1u04blIIQXdSzPOYPUgb0O61ropTFqp6);
+	background-size: 100% 100%;
+	width: 100%;
+    height: 100%;
+    filter: opacity(0.35);
+}
+
+#info {
+	position: absolute;
+	left: 25px;
+	bottom: 25px;
+	font-size: 40px;
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+}
+
+.info_text {
+	display: block;
+	font-family: "Segoe UI", system-ui, arial;
+	line-height: 100%;
+}
+
+#username {
+	font-weight: 100;
+}
+
+#userId {
+	font-weight: 600;
+	font-size: 60px;
+}
+
+#download {
+	position: absolute;
+	right: 25px;
+	bottom: 25px;
+	width: 80px;
+	height: 80px;
+	background-image: url("https://i.imgur.com/1MeW81O.png");
+}
+
+#download:hover {
+	background-image: url("https://i.imgur.com/qRnLdlq.png");
+	cursor: pointer;
+}
+
+#loading {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 80px;
+	height: 80px;
+	background-image: url("https://i.imgur.com/Kqj4MZj.png");
+	background-size: 100% 100%;
+}
