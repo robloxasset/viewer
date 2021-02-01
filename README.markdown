@@ -5,7 +5,7 @@ Avatar Model Viewer (AMV) [![Build Status](https://api.travis-ci.org/Stuk/jszip.
 
 A tool for viewing 3D Roblox models & avatars. Includes download feature.
 
-See https://robloxasset.github.io/avatar-model-viewer for all the documentation.
+See https://robloxasset.github.io/avatar-model-viewer for access & instructions.
 
 License
 -------
