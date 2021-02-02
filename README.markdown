@@ -3,7 +3,7 @@ RBX Model Viewer [![Build Status](https://img.shields.io/travis/rust-lang/rust/m
 
 [![Selenium Test Status](https://i.imgur.com/LYQn8ED.png)](https://robloxasset.github.io/avatar-model-viewer)
 
-A tool for viewing 3D Roblox models & avatars. Includes `obj` conversion feature.
+A tool for viewing 3D Roblox models & avatars. Includes `.obj` conversion feature.
 
 See https://robloxasset.github.io/avatar-model-viewer for instructions.
 
