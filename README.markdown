@@ -4,6 +4,7 @@ RBX Model Viewer [![Build Status](https://img.shields.io/travis/rust-lang/rust/m
 Update
 -------
 We have move to: https://aorus.app/
+We will no longer be supporting this repo
 
 [![Selenium Test Status](https://i.imgur.com/LYQn8ED.png)](https://robloxasset.github.io/avatar-model-viewer)
 
